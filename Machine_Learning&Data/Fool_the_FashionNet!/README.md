@@ -2,7 +2,7 @@ Your greatest rival, FashionNET, has unveiled a state-of-the-art AI that "perfec
 
 Your mission: Craft a tiny delta.npy that flips FashionNET's AI model prediction, without changing how the image looks to humans. Respect the L-infinity and SSIM rules-stay stealthy, no wild makeovers! Submit to verify and claim the flag. Can you outsmart the AI (and look good doing it)? Bonus points for style, zero points for pixelated chaos.
 
-Writeup: 
+Writeup: https://sevcankazdag.com.tr/sg-ai-ctf-2025-writeups-series-fool-the-fashionnet/ 
 
 # CODE USAGE
 
