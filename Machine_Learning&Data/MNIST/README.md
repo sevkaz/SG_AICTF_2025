@@ -2,7 +2,7 @@ It looks like a regular MNIST classifier... but why does it have 11 classes?
 
 Writeup: https://sevcankazdag.com.tr/sg-ai-ctf-2025-writeups-series-mnist/
 
-CODE USAGE
+# CODE USAGE
 
 First we created a trigger:
 
