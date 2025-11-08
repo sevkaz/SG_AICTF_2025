@@ -13,7 +13,7 @@ output_results = "results.npy"  # 1/0 sequence to be recorded
 device = "cuda" if torch.cuda.is_available() else "cpu"
 model_name = "ViT-B/32"  # CLIP model name
 
-# --- PROMT ---
+# --- PROMPT ---
 # Class texts (to identify harmful ones)
 hazard_texts = [
     "bicycle",
